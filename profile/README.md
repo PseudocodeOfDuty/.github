@@ -2,8 +2,8 @@
 Thanks for being here to see our code and our work for the hacktrick hackathon 2024, so let's start. 
 
 <p float="left">
-  <img src="./images/win.jpg" width="250" />
-  <img src="./images/work.jpg" width="250" />
+  <img src="https://github.com/PseudocodeOfDuty/.github/blob/main/profile/images/win.jpg?raw=true" width="250" />
+  <img src="https://github.com/PseudocodeOfDuty/.github/blob/main/profile/images/work.jpg?raw=true" width="250" />
 </p>
 
 

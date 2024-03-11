@@ -1,5 +1,5 @@
 ## Hi Everyone
-Thanks for being here to see our code and our work for the hacktrick hackathon 2024, so let's start. 
+Welcome! We're thrilled to share our journey and achievements from the exciting Hacktrick Hackathon 2024, where our team proudly secured the third place. Join us as we delve into the innovative solutions and hard work that propelled us to success in this year's competition. 
 
 <p float="left">
   <img src="https://github.com/PseudocodeOfDuty/.github/blob/main/profile/images/win.jpg?raw=true" width="250" />

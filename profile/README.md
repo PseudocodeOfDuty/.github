@@ -42,10 +42,10 @@ Leaderboard Pinger: For data analysis and optimizing our scoring strategy, refer
 <a id="ack"></a>
 ## Acknowledgment
 We extend our heartfelt thanks to all team members for their hard work and outstanding efforts.     
-[Ahmed Abdallah](https://github.com/orgs/PseudocodeOfDuty/people/ahme2001)   
-[Mohamed Salama](https://github.com/orgs/PseudocodeOfDuty/people/m13salama)   
-[Mohamed Aiad](https://github.com/orgs/PseudocodeOfDuty/people/mohamedaiad)   
-[Michael Samir](https://github.com/orgs/PseudocodeOfDuty/people/MichaelSamir75)   
-[Yousef saeed](https://github.com/orgs/PseudocodeOfDuty/people/usefSaeed)   
-[Mohamed Mostafa](https://github.com/orgs/PseudocodeOfDuty/people/mohamed-euler)
+[Ahmed Abdallah](https://github.com/ahme2001)   
+[Mohamed Salama](https://github.com/m13salama)   
+[Mohamed Aiad](https://github.com/mohamedaiad)   
+[Michael Samir](https://github.com/MichaelSamir75)   
+[Yousef saeed](https://github.com/usefSaeed)   
+[Mohamed Mostafa](https://github.com/mohamed-euler)
 
